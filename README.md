@@ -1,6 +1,6 @@
 # Python
 
-# Data Cleaning and Exploratory Data Analysis (EDA)
+# Stocks and Shares ISA Data Cleaning and Exploratory Data Analysis 
 
 ## Introduction
 
