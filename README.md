@@ -25,7 +25,12 @@ The analysis process included:
 - Handling missing values
 - Removing duplicates
 - Converting data types where necessary
-- Exploratory visualizations 
+- Exploratory visualizations
 
+## Files
+
+[Cleaning_EDA_.ipynb](https://github.com/Lrng09/Python/blob/main/Cleaning_EDA_.ipynb)
+
+[Vanguard_ISA.Xlsx](https://github.com/Lrng09/Python/blob/main/Vanguard_ISA.Xlsx)
 
 
